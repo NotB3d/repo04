@@ -1,2 +1,2 @@
-# Para todos esa personas
-Esto es un comunicado para todos. 
+# REPODITORIO 03
+Mir primer ejercicio con ramas 
