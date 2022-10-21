@@ -1,2 +1,2 @@
 # Para todos esa personas
-Esto es un comunicado para todos.
+Esto es un comunicado para todos. 
